@@ -10,19 +10,21 @@ Ordena os resíduos e atribue os aminoácidos com base em sua sequencia FASTA.
 * [Python 2.7.13](https://www.python.org/downloads/release/python-2713/)
 
 
-```
 > Instalar pip:
 
-> (linux) sudo apt-get install python-pip python-dev build-essential 
+> (linux)
+
+```
+> sudo apt-get install python-pip python-dev build-essential 
+```
 
 > Instalar os pacotes necessários
-
+```
 > pip install -r requirements.txt
 ```
 
+> Para Rodar:
 ```
-Para rodar:
-
 python nvmrview_data.py --file 'local_arquivo_xpk' --names 'local_sec_file'
  
 ```
