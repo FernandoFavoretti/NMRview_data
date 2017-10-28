@@ -5,6 +5,15 @@ Ordena os resíduos e atribue os aminoácidos com base em sua sequencia FASTA.
 
 # Como usar
 
+> Instalar GIT (https://git-scm.com/download/win)
+
+> Clonar esse repositorio:
+
+```
+> git clone https://github.com/FernandoFavoretti/NMRview_data.git
+```
+
+
 > Instalar python 2.7:
 
 * [Python 2.7.13](https://www.python.org/downloads/release/python-2713/)
