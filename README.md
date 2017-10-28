@@ -16,6 +16,10 @@ Ordena os resíduos e atribue os aminoácidos com base em sua sequencia FASTA.
 
 ```
 > sudo apt-get install python-pip python-dev build-essential 
+
+ou rodar o arquivo get-pip.py nesse local
+
+> python get-pip.py
 ```
 
 > Instalar os pacotes necessários
